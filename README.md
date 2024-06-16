@@ -24,7 +24,7 @@ This project is a simple password generator web application built using React. I
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/react-password-generator.git
+   git clone https://github.com/akshitasaxena1309/Password-generator-REACT.git
    
 2. Navigate to the project directory:
    ```sh
